@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_theme_1">#515051</color>
+    <color name="color_theme_2">#515051</color>
+    <color name="color_theme_3">#000000</color>
+    <color name="color_theme_4">#FFFFFF</color>
+    <color name="color_theme_5">#515051</color>
+    <color name="color_theme_6">#515051</color>
+    <color name="color_theme_7">#515051</color>
+    <color name="button_text_color">#ffffff</color>
+    <color name="inactive_button_background">#22FFFFFF</color>
+    <color name="record_active_button_background">#B4F44336</color>
+    <color name="active_button_background">#A6292828</color>
+    <color name="default_button_background">#A4000000</color>
+    <color name="pressed_button_background">#D8D4FFA1</color>
+    <color name="processing_button_background">#D8FF9800</color>
+    <color name="record_pressed_button_background">#FFFFFF</color>
+</resources>

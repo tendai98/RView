@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RearView</string>
+    <string name="camera_view">CAMERA VIEW</string>
+    <string name="link">Link</string>
+    <string name="track">Track</string>
+    <string name="poi">POI</string>
+    <string name="record">Record</string>
+    <string name="capture">Capture</string>
+    <string name="video_processing">Encoding</string>
+</resources>
