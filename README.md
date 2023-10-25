@@ -9,14 +9,13 @@
  
 # RView Demo
 
+- ***Note***: Images are in the `img` if you want to see the app UI and camera
 - Rollei Camera
 ![Camera](img/1.jpg)
 
 - RView Home UI
-![UI](img/4.jpg)
+![UI](img/7.jpg)
 
-- Rview App Running
-![Demo](img/6.jpg)
 
 ### `startFFMPEGStreamBridgeServer`
 
