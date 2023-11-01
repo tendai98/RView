@@ -8,6 +8,7 @@
 - Using the Track Mode (the feature of the app that will run an ML model on device to ID objects) works fine but slows down things (ML is CPU intensive) but works fine on capable devices
  
 # RView Demo
+https://www.youtube.com/watch?v=WsEpVHFagdU&ab_channel=Cygmoid
 
 - ***Note***: Images are in the `img` if you want to see the app UI and camera
 - Rollei Camera
